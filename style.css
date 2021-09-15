@@ -1,0 +1,24 @@
+.a {
+  display: flex;
+  justify-content: space-between;
+}
+.b {
+  background-color: rgb(255, 165, 136);
+  height: 150;
+  width: 150;
+}
+.c {
+  background-color: rgb(255, 249, 206);
+  height: 150;
+  width: 150;
+}
+.d {
+  background-color: rgb(255, 205, 218);
+  height: 150;
+  width: 150;
+}
+.e {
+  background-color: rgb(119, 243, 252);
+  height: 150;
+  width: 150;
+}
